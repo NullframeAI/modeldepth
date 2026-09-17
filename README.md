@@ -1,26 +1,21 @@
 <div align="center">
 
-# ∅ modeldepth
+<img src="https://raw.githubusercontent.com/NullframeAI/NullframeAI/main/assets/header.png" alt="Vesper AI Laboratory" width="960" />
+
+# modeldepth
 
 **Below the interface: LLM behavior maps, prompting depth, and evaluation rigs.**
 
-<img src="https://img.shields.io/badge/NULLFRAME-DIVISION_02_%2F%2F_LLM_INTERNALS-00FF41?style=flat-square&labelColor=030604&color=0a2912"/>
-<img src="https://img.shields.io/badge/STATUS-RESEARCH_ACTIVE-00FF41?style=flat-square&labelColor=030604&color=0a2912"/>
-<img src="https://img.shields.io/badge/ACCESS-RESTRICTED-00FF41?style=flat-square&labelColor=030604&color=0a2912"/>
 
 </div>
 
 ---
 
-```console
-nullframe@deep:~/modeldepth$ cat mission.txt
-```
+## Research direction
 
 Every model carries a space the docs never map. modeldepth charts it: behavior maps of frontier models, prompting techniques that only surface at depth, and rigs for evaluating what the marketing page will not tell you.
 
-```console
-nullframe@deep:~/modeldepth$ ls ./research-threads
-```
+## Research threads
 
 | THREAD | STATUS | SCOPE |
 |:-------|:------:|:------|
@@ -29,19 +24,16 @@ nullframe@deep:~/modeldepth$ ls ./research-threads
 | `eval-rigs` | 🟢 ACTIVE | repeatable harnesses for capability claims |
 | `failure-atlas` | 🟢 ACTIVE | a taxonomy of the ways models quietly fail |
 
-```console
-nullframe@deep:~/modeldepth$ cat status.txt
-```
+## Status
 
-> **RESEARCH IN PROGRESS.** Artifacts land in this repository as they are
-> declassified. Watch the repo to catch the first drop.
+> **RESEARCH IN PROGRESS.** Research artifacts will be documented in this repository as the work develops.
 
 ---
 
 <div align="center">
 
-**[NULLFRAME](https://github.com/rindy007)** · **[nullframe.higgsfield.app](https://nullframe.higgsfield.app)**
+**[Vesper AI Laboratory](https://github.com/NullframeAI)** · **[Explore the laboratory](https://vesper-world.vercel.app/)**
 
-<sub><code>NULLFRAME // nothing here is an accident</code></sub>
+<sub><code>Vesper AI Laboratory / Intelligence, built to endure.</code></sub>
 
 </div>
